@@ -63,6 +63,7 @@
     "toaster": "^0.1.2",
     "utils": "^0.3.1",
     "vaul": "^0.9.3",
+    "vite_react_shadcn_ts": "file:",
     "zod": "^3.23.8"
   },
   "devDependencies": {
